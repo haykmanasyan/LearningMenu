@@ -28,6 +28,13 @@
             android:text="Arogya"
             />
 
+        <Button
+            android:id="@+id/name_hm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hayk"
+            />
+
     </LinearLayout>
 
 
