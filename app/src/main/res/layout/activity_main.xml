@@ -35,6 +35,13 @@
             android:text="Hayk"
             />
 
+        <Button
+            android:id="@+id/keyli_bt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Keyli"
+            />
+
     </LinearLayout>
 
 
